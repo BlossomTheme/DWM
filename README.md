@@ -1,4 +1,4 @@
-# Blossom Theme for [App/Service/etc... Name]
+# Blossom Theme for DWM
 
 ## Preview
 > Add Screenshots of the theme
